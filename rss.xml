@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Create your world.]]></title>
+        <description><![CDATA[Create your world.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 02 Aug 2016 21:09:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Making of a Six Elements Game Board]]></title>
+            <description><![CDATA[<article><h1>Making of a Six Elements Game Board</h1><p>There was a magical undertaking that I was assigned by a good friend of mine. She asked me to make her a chessboard. Sure, easy enough, but my way is never the easy way and I concocted an idea about what I would like to see in a chessboard.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a307ec13-d500-4370-870a-d2a5c8e3d62c.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7e9b0c0-f84c-450e-99c1-5323a8dd6de3.jpg</link>
+            <guid isPermaLink="false">c6fc1986-10e1-429b-a210-9a8df0e42522</guid>
+            <pubDate>Tue, 02 Aug 2016 21:09:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
